@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+     body {
+      background-color: #f1f1e5;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+	
+     header {
+      background-color: #009d94;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+	}
+	
+    nav {
+      background-color: #99eeff;
+      padding: 10px;
+      text-align: center;
+    }
+
+    nav a {
+      color: #333;
+      margin: 0 10px;
+      font-weight: bold;
+    }
+
+	
+	main {
+      padding: 20px;
+      box-sizing: border-box;
+    }
+	
+	footer {
+      background-color: #009d94;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+	
+	table {
+	  border-collapse: collapse;
+	  width: 100%;
+	}
+
+	th, td {
+	  border: 1px solid black;
+	  padding: 8px;
+	  text-align: left;
+	}
+
+	th {
+	  background-color: #475a56;
+	  color: #99eeff;
+	}
+	
+	
+	.precio, tfoot {
+		background-color: #abc9c3;
+		color: #3e05fa;
+	}
+  </style>
+</head>
+ <body>
+ 
+  <header>
+    <h1>Lista de Productos</h1>
+  </header>
+  
+  <nav>
+    <a href="index.html">Inicio</a> |
+    <a href="acerca-de.html">Acerca de</a> |
+    <a href="contacto.html">Contacto</a> 
+  </nav>
+  
+	<main>
+		<table>
+		  <thead>
+			<tr>
+			  <th>Categoría</th>
+			  <th colspan="2">Producto</th>
+			  <th>Precio</th>
+			</tr>
+		  </thead>
+		  <tbody>
+			<tr>
+			  <td rowspan="2">Tabla de Surf</td>
+			  <td>Shortboard</td>
+			  <td>Para olas cortas</td>
+			  <td class="precio">€250</td>
+			</tr>
+			<tr>
+			  <td>Longboard</td>
+			  <td>Para olas largas y principiantes</td>
+			  <td class="precio">€300</td>
+			</tr>
+			<tr>
+			  <td rowspan="2">Buceo</td>
+			  <td>Aletas</td>
+			  <td>Para propulsión</td>
+			  <td class="precio">€80</td>
+			</tr>
+			<tr>
+			  <td>Máscara y Snorkel</td>
+			  <td>Para visión y respiración bajo el agua</td>
+			  <td class="precio">€65</td>
+			</tr>
+		  </tbody>
+		  <tfoot>
+			<tr>
+			  <td colspan="3">Total de productos:</td>
+			  <td>5</td>
+			</tr>
+		  </tfoot>
+		</table>
+	</main>
+	
+	
+	<footer>
+		<p>&copy; 2024 Deportes Acuáticos. Todos los derechos reservados.</p>
+	</footer>
+
+</body>
