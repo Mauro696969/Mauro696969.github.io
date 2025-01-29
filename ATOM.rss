@@ -1,0 +1,25 @@
+<?xml version="1.0" enconding="utf8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+    <title>Películas sobre tiburones</title>
+    <link href="https://www.pelistibu.it/"/>
+    <updated>2022-09-03</updated>
+    <author>
+    <name>Fernando Paniagua</name>
+    </author>
+    <id>https://www.pelitibu.it/Feed/</id>
+    <entry>
+        <tittle>Super tiburón</tittle>
+
+        <link href="https://www.pelistibu.it/feed/pl.html" />
+        <id>https://www.pelistibu.it/feed/p1.html</id> 
+        <updated>2022-09-03 </updated>
+        <summary>Un enorme tiburón ataca la costa.</summary> </entry>
+    </entry>
+    <entry>
+        <title>Sharknado</title>
+        <link href="https://www.pelistibu.it/feed/p2.html" />
+        <id>https://www.pelist ibu.it/feed/p2.html</id> 
+        <updated>2022-09-04</updated>
+        <summary>Un tornado marino lleva tiburones a la ciudad. </summary>
+    </entry>
+</feed>
