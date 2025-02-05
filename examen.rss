@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>MARCA</title>
+      <link>https://www.marca.com</link>
+        <description>Periodico deportivo</description>
+        <item>
+            <title>Asencio asciende a 'jefe' tras romper una barrera 'imposible'</title>
+            <link>https://www.marca.com/futbol/real-madrid/2025/02/05/asencio-asciende-jefe-romper-barrera-imposible.html</link>
+            <description>Supera ya los mil minutos disputados sin ser jugador con ficha del primer equipo y las lesiones de Rüdiger y Alaba le dejan vía libre para seguir siendo importante</description>
+            <author>SILVIA TAMARAL</author>
+        </item>
+        <item>
+            <title>Jorge Martín, con fracturas en un pie y una manoJorge Martín, con fracturas en un pie y una manoJorge Martín, con fracturas en un pie y una manoJorge Martín, con fracturas en un pie y una mano</title>
+            <link>https://www.marca.com/motor/motogp/2025/02/05/jorge-martin-trasladado-hospital-sufrir-dos-caidas.html</link>
+            <description>Se cayó y deberá operarse del pie izquierdo y la mano derecha</description>
+            <author>JAIME MARTÍN</author>
+        </item>
+        <item>
+            <title>El agente de Davies: “Negociamos con el Real Madrid en el mes de enero”</title>
+            <link>https://www.marca.com/futbol/real-madrid/2025/02/05/agente-davies-negociamos-real-madrid-mes-enero.html</link>
+            <description>Nedal Huoseh confirma las negociaciones con el Madrid hasta los últimos días del mes de enero, a la vez que confiesa la felicidad del futbolista por seguir en el Bayern</description>
+            <author>JOSÉ FÉLIX DÍAZ</author>
+        </item>
+    </channel>
+</rss>
