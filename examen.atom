@@ -1,0 +1,24 @@
+<?xml version="1.0" enconding="utf8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+    <title>MARCA</title>
+    <link href="https://www.marca.com"/>
+
+    <entry>
+        <tittle>Asencio asciende a 'jefe' tras romper una barrera 'imposible'</tittle>
+        <link href="https://www.marca.com/futbol/real-madrid/2025/02/05/asencio-asciende-jefe-romper-barrera-imposible.html" /> 
+        <updated>05-02-2025</updated>
+        <summary>Supera ya los mil minutos disputados sin ser jugador con ficha del primer equipo y las lesiones de Rüdiger y Alaba le dejan vía libre para seguir siendo importante</summary>
+    </entry>
+    <entry>
+        <title>Jorge Martín, con fracturas en un pie y una mano</title>
+        <link href="https://www.marca.com/motor/motogp/2025/02/05/jorge-martin-trasladado-hospital-sufrir-dos-caidas.html"/>
+        <updated>05-02-2025</updated>
+        <summary>Se cayó y deberá operarse del pie izquierdo y la mano derecha</summary>
+    </entry>
+    <entry>
+        <title>SharknadoEl agente de Davies: “Negociamos con el Real Madrid en el mes de enero”</title>
+        <link href="https://www.marca.com/futbol/real-madrid/2025/02/05/agente-davies-negociamos-real-madrid-mes-enero.html"/>
+        <updated>05-02-2025</updated>
+        <summary>Nedal Huoseh confirma las negociaciones con el Madrid hasta los últimos días del mes de enero, a la vez que confiesa la felicidad del futbolista por seguir en el Bayern</summary>
+    </entry>
+</feed>
